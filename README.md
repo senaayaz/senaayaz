@@ -12,6 +12,7 @@
 
 Excited about the future, I'm on the lookout for opportunities to contribute to innovative projects, where my skills can make a meaningful impact. Let's embark on this DevOps journey together and shape the future of technology!
 
+<br/>
 
 ## 🚀 Skills
 
@@ -40,9 +41,9 @@ Excited about the future, I'm on the lookout for opportunities to contribute to 
 <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a> 
 
+<br/>
 
 ## 🎧 Let's Connect 
-</br></br>
 
 <a href="https://github.com/senaayaz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
